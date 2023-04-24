@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "always-new-bc4c6": {
+      "hosting": {
+        "rathi17": [
+          "always-new-bc4c6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "always-new-bc4c6"
+  }
+}
